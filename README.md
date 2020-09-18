@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### I'm Jiayi, a software engineer [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/jiayi-jay-ren/) [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/jiayi-ren)
+- 🦉 Passionate about gaining wisdom
+- 💪 Thrive on overcoming obstacles
+
 ![Jiayi's github stats](https://github-readme-stats.vercel.app/api?username=jiayi-ren&theme=default&show_icons=true&include_all_commits=true&count_private=true)
